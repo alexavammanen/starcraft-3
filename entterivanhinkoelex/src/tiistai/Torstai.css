@@ -1,0 +1,39 @@
+.row{
+        display: flex;
+        flex-direction: row;
+}
+
+
+.square{
+
+    width:101px ;
+    height:64px;
+    text-align: center;
+    color: coral;
+    font-weight: bolder ;
+    padding-bottom: 25px ;
+    font-size: 20px;
+    
+
+
+
+
+}
+
+.b-bottom-r{
+    border-right: 7px solid black ;
+    border-bottom: 7px solid blueviolet;
+
+
+}
+
+.b-bottom{
+    border-bottom: 7px solid black;
+
+
+}
+.b-bottom-l{
+    border-right: 7px solid black;
+
+
+}
